@@ -1,0 +1,13 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>e9d939df-a600-db5f-aacd-6b162445a1c6</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+    <PublishBeforeDebugProfile>Darren</PublishBeforeDebugProfile>
+    <CustomServerUrl>http://www.osier.net</CustomServerUrl>
+    <SpecificPageValue>index.php</SpecificPageValue>
+    <StartAction>SpecificPage</StartAction>
+  </PropertyGroup>
+</Project>
