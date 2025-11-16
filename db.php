@@ -2,7 +2,7 @@
 $db_host = 'vuxmysql11';
 $db_name = 'disneyears';
 $db_user = 'darreno ';
-$db_pass = 'Casper#1974';
+$db_pass = '';
 
 try {
     $pdo = new PDO("mysql:host=$db_host;dbname=$db_name;charset=utf8mb4", $db_user, $db_pass);
